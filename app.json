@@ -1,0 +1,7 @@
+{
+  "name": "JavaServer Faces backend",
+  "description": "A JavaServer Faces example including url parameters, set up to run on Heroku..",
+  "repository": "https://github.com/josinaga/heroku-javaserver-faces",
+  "logo": "https://raw.githubusercontent.com/ajaxorg/ace/master/doc/site/images/logo.png",
+  "keywords": ["JavaServer Faces", "Heroku", "server", "RESTful"]
+}
